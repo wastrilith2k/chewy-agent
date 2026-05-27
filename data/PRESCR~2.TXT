@@ -1,0 +1,55 @@
+URL: https://www.chewy.com/customer-care/prescriptions-and-veterinary-diets/managing-prescriptions-and-veterinary-diets
+Title: Managing prescriptions and veterinary diets
+
+Topics on this page:
+- View prescriptions and vet diets
+- Set up automatic refills
+- Add or remove a vet clinic
+
+================================================================
+
+## View prescriptions and vet diets
+
+Sign in to your account to view active and expired prescriptions and vet diet authorizations you have on file with us.
+
+On a web browser, go to Prescriptions in your account.
+
+On the Chewy app, go to the Care tab.
+
+================================================================
+
+## Set up automatic refills
+
+Select Autoship when you check out to get easy, repeat deliveries of your pet's prescription or veterinary diet items. You'll save 5% on every order and you can skip, change, or cancel anytime.
+
+If you set up an Autoship and your current prescription or authorization expires, we'll automatically contact your vet clinic to renew it, and we'll reach out to you if any action is needed.
+
+================================================================
+
+## Add or remove a vet clinic
+
+### Adding a vet clinic
+When you order prescription or veterinary diet items from Chewy, we'll work with your pet's vet clinic for approval or authorization.
+
+We'll ask you for vet clinic details in checkout, or you can add the clinic in your account.
+
+In checkout:
+- Sign in to your Chewy account.
+- Add the prescription item or veterinary diet your pet needs to your cart and select Proceed to checkout.
+- In checkout under Pet and Vet Clinic Information, select Add details.
+- Fill in information about your pet and vet clinic and then Save and close. We'll save these details in your Chewy account.
+
+In your account:
+- Sign in to your Chewy account.
+- In your account, select My vet clinics.
+- Select Add a vet clinic.
+- Search for the clinic by name, location, or phone number. Select the correct clinic from the list.
+- Select Save.
+
+### Removing a vet clinic
+You can remove a vet clinic from your account to remove it from all your pets' profiles.
+
+To remove a vet clinic from your account:
+- Sign in to your Chewy account.
+- In your account, select My vet clinics.
+- Select the clinic you want to remove and confirm.

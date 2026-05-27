@@ -1,0 +1,104 @@
+URL: https://www.chewy.com/customer-care/account/settings
+Title: Settings
+
+Topics on this page:
+- Update your account
+- Reset your Chewy password
+- Notification preferences
+- Delete your Chewy account
+- Keep your account secure
+
+================================================================
+
+## Update your account
+
+Update your account details anytime—like your name, email, phone number, or password—to keep everything current.
+
+- Sign in to your Chewy account.
+- Select Account.
+- Under Settings & preferences, choose the section you want to edit.
+- Make your updates.
+- Select Save changes.
+
+### Things to know
+- If you update your email, you'll be signed out and asked to sign in again with the new address.
+- Changing your password will also log you out of all devices for security.
+- Changing or removing your mobile number will opt you out of any text messages you opted in to receive.
+
+================================================================
+
+## Reset your Chewy password
+
+To reset your password by email:
+- Go to the Sign in page.
+- Enter the email address for your Chewy account and select Continue.
+- If you forgot your password or want to reset it, select Forgot password?
+- Confirm your email address and select Reset password.
+- Check your inbox for a reset password email and follow the link.
+- Enter a new password and confirm it.
+- Select Save to complete the reset.
+
+Another option to reset your password is to sign in to your Chewy account with a one-time code and change your password in account settings.
+
+### Tips for a strong password
+- Use at least 8 characters, including a mix of uppercase and lowercase letters, numbers, and special characters.
+- Avoid common words or easily guessed phrases—don't use "password," "123456," or your pet's name.
+- Don't reuse passwords from other accounts.
+
+================================================================
+
+## Notification preferences
+
+- Sign in to your account.
+- From your account, select Settings & preferences, then Notification preferences.
+- Expand the text messages or email section to update your preferences. On the Chewy app, you'll also have a push notifications section.
+- For text messages: If you have a mobile number for your account, check the box to opt in or out and select Save. If you don't have a mobile number, enter your number to add it to your account, then update your preference.
+- For emails: Use the toggle to turn emails on or off. Your changes will save automatically.
+- For push notifications: Use the toggle to turn on or off all push notifications or specific push notifications. Your changes will save automatically.
+
+================================================================
+
+## Delete your Chewy account
+
+To permanently delete your account:
+- Sign in to your account.
+- Go to Settings & preferences.
+- Select Privacy preferences.
+- The option to delete your account is at the bottom of the page.
+- Follow the prompts to confirm the deletion.
+
+Once deleted, your account and all related information can't be recovered.
+
+================================================================
+
+## Keep your account secure
+
+Your account is the key to your pet's care, so it's important to keep it safe. From creating a strong password to using passwordless sign-in options, these steps help protect your information and ensure uninterrupted access to everything you and your pet need.
+
+### Creating a strong password
+A strong password helps prevent unauthorized access and protects you and your pet's personal information.
+
+Tips for creating a strong password:
+- Use at least 8 characters, including a mix of uppercase and lowercase letters, numbers, and special characters.
+- Avoid common words or easily guessed phrases—don't use "password," "123456,"  or your pet's name.
+- Don't reuse passwords from other accounts.
+- Update your password regularly—you can do this in account settings.
+
+### Adding a mobile number
+This gives you a secure way to sign in with a one-time code if you ever forget your password.
+
+To add a mobile number:
+- Go to account settings.
+- Select Edit next to the phone number field.
+- Enter your mobile number.
+- Enter the verification code sent to your phone to confirm it.
+
+Once verified, you can use your phone to sign in or recover your account in the future.
+
+### Adding a passkey
+Passkeys are a simple and secure alternative to passwords. With a passkey, you can sign in to your account with your fingerprint, face scan, or device PIN.
+
+To add a passkey:
+- Go to Passkeys in account settings.
+- Select Add a passkey.
+- Follow the prompts to register your device.

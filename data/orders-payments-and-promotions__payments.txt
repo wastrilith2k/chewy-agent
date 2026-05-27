@@ -1,0 +1,105 @@
+URL: https://www.chewy.com/customer-care/orders-payments-and-promotions/payments
+Title: Payments
+
+Topics on this page:
+- Add or edit payment methods
+- Use a Chewy eGift card
+- Send a Chewy eGift card
+- Payment forms
+- Authorization charges
+- Multiple payment charges
+
+================================================================
+
+## Add or edit payment methods
+
+### Adding a payment method
+- Sign in to your account.
+- Go to Payment methods in your account.
+- Under Add a payment method, choose to add a credit or debit card or PayPal.
+- Enter the details of your new payment method.
+
+### Editing an existing payment method
+- Sign in to your account.
+- Go to Payment methods in your account.
+- Expand the card you want to update.
+- Select Edit in the card details.
+- Update your card information or billing address.
+- Select Update card.
+
+### Adding a backup payment method
+- Sign in to your account.
+- Go to Payment methods in your account then Select a backup payment method.
+- Select a card on file or enter details for a new payment method.
+
+================================================================
+
+## Use a Chewy eGift card
+
+### Adding a gift card to your account
+- Sign in to your account.
+- Go to Account and select Gift card balance.
+- Select Add a gift card.
+- Enter your gift card number and PIN (you'll find these on the back of your card or in your email).
+- Select Add gift card.
+
+Once added, the gift card balance will automatically apply to eligible purchases at checkout. Chewy eGift cards have no expiration date.
+
+If you need help locating your gift card number or PIN, chat with us or call us at 1-800-672-4399 and we'll be happy to help.
+
+### Viewing your gift card balance
+- Sign in to your account.
+- Go to Account and select Gift card balance.
+
+### Viewing previous gift card activity
+- Sign in to your account.
+- Go to Account and select Gift card balance.
+- You'll see a list of past transactions, including dates, amounts used, and remaining balances.
+
+================================================================
+
+## Send a Chewy eGift card
+
+Personalize a Chewy eGift card to send to a recipient. Chewy eGift cards are emailed within 90 minutes after you place your order or can be scheduled for a later date. Chewy eGift cards have no expiration date.
+
+If there's a problem with your eGift card, such as sending it to the wrong email address or if your recipient didn't receive it, chat with us or call us at 1-800-672-4399 and we'll be happy to help.
+
+================================================================
+
+## Payment forms
+
+We accept the following payment methods for Chewy orders:
+- Visa
+- Mastercard
+- American Express
+- Discover
+- Apple Pay
+- Google Pay
+- PayPal
+- Venmo
+- Chewy gift cards
+- Chewy+ rewards
+
+================================================================
+
+## Authorization charges
+
+When you place an order, Chewy contacts the bank that issued your card to confirm your account and reserve funds for your purchase.
+
+You'll see a pending charge, also called an authorization charge, in your bank or credit card account. We only charge your payment method when your items ship.
+
+Your bank will reserve the funds in your account until your items ship, or the authorization expires. Depending on your bank's policy, you may see an authorization charge even if an order is cancelled. If your items don't ship, the authorization charge will expire. Some banks may take up to 30 days to remove authorization charges from your account.
+
+================================================================
+
+## Multiple payment charges
+
+We charge your payment method as your items ship. If your items have shipped in more than one box, you may see multiple charges on your payment method:
+- One authorization charge for the grand total of your order
+- Separate, final charges for each shipped box
+
+When you place an order, Chewy contacts the bank that issued your card to confirm your account and reserve funds for your purchase.
+
+You'll see a pending charge, also called an authorization charge, in your bank or credit card account. We only charge your payment method when your items ship.
+
+Your bank will reserve the funds in your account until your items ship, or the authorization expires. Depending on your bank's policy, you may see an authorization charge even if an order is cancelled. If your items don't ship, the authorization charge will expire. Some banks may take up to 30 days to remove authorization charges from your account.

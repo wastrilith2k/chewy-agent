@@ -1,0 +1,17 @@
+{
+  "name": "ingest",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "ingest": "tsx ingest.ts"
+  },
+  "dependencies": {
+    "@pinecone-database/pinecone": "^5.0.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}

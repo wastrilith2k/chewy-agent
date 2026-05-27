@@ -1,0 +1,57 @@
+URL: https://www.chewy.com/customer-care/autoship/creating-or-updating-autoship
+Title: Creating or updating Autoship
+
+Topics on this page:
+- Start a new Autoship
+- Change an Autoship order
+- Cancel an Autoship
+
+================================================================
+
+## Start a new Autoship
+
+- Sign in to your account.
+- Find the item you want and select Set up Autoship.
+- In checkout, choose Autoship and select your preferred delivery frequency.
+
+We'll send you an order confirmation email and an email when your order ships.
+
+When your next order is coming up, we'll send you an email reminder. As a valued Autoship customer, we prioritize your orders with reserved inventory.
+
+After you start an Autoship, you can manage your upcoming orders in your Chewy account.
+
+================================================================
+
+## Change an Autoship order
+
+Update items, change your delivery date, or cancel your Autoship anytime.
+
+To manage your Autoship:
+- Go to Manage Autoship in your account.
+- Choose the Autoship you want to update.
+
+From here, you can:
+- Change your next order date: Select a new date and confirm.
+- Update delivery frequency: Choose a new frequency from the dropdown.
+- Order now: Place an order for an item you need before your Autoship date.
+- Skip an order: If you're not ready for your next Autoship, select Skip order.
+- Add, skip, or remove items: Search for new items to add, skip items for an order, or remove items you no longer need.
+- Change shipping address or payment: Select Edit next to the address or payment info.
+- Cancel Autoship: Scroll to the bottom and select Cancel Autoship. You can always create a new one later.
+
+================================================================
+
+## Cancel an Autoship
+
+You can cancel an Autoship anytime from your account. Once canceled, you won't be charged or receive future deliveries from that Autoship.
+
+To cancel an Autoship:
+- Sign in to your account.
+- Go to Manage Autoship.
+- Select the Autoship you want to cancel.
+- Scroll to the bottom and select Cancel Autoship.
+- Confirm your cancellation when prompted.
+
+You'll receive an email confirming the cancellation.
+
+Quick tip: If you're not ready for your next Autoship, you can skip a delivery instead. Just select Skip order from the Autoship details page.
