@@ -1,3 +1,9 @@
+/**
+ * Builds the system prompt for the Chewy customer service assistant.
+ * Wraps the retrieved knowledge base context in XML tags to prevent
+ * the model from blending retrieved content with training data or
+ * prior conversation turns.
+ */
 export function buildSystemPrompt(context: string): string {
   return `You are a helpful Chewy customer service assistant.
 Answer using ONLY the information in <knowledge_base> below.

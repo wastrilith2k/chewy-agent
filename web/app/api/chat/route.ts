@@ -16,6 +16,14 @@ const openrouter = createOpenAI({
   apiKey: process.env.OPENROUTER_API_KEY!,
 });
 
+/**
+ * POST /api/chat
+ * Accepts a Vercel AI SDK message array, extracts the latest user query,
+ * retrieves relevant knowledge base chunks from Pinecone, then streams back:
+ *  1. A transient debug payload (query, model, retrieved chunks, system prompt)
+ *  2. Source citation parts for each unique URL surfaced to the user
+ *  3. The streamed LLM response from Gemini via OpenRouter
+ */
 export async function POST(req: Request) {
   const { messages } = await req.json();
 

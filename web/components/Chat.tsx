@@ -13,6 +13,12 @@ const SUGGESTED_QUESTIONS = [
   "What is Connect with a Vet?",
 ];
 
+/**
+ * Collapsible developer panel shown below the chat input after the first response.
+ * Displays the last query's retrieval internals: query text, model name, all
+ * retrieved chunks with similarity scores and citation status, and the full
+ * system prompt sent to the LLM. Hidden until the first message is sent.
+ */
 function DevPanel({ debug }: { debug: DebugInfo | null }) {
   const [open, setOpen] = useState(false);
 
@@ -79,6 +85,12 @@ function DevPanel({ debug }: { debug: DebugInfo | null }) {
   );
 }
 
+/**
+ * Main chat interface. Manages the message list, input state, and loading dots.
+ * Streams messages from /api/chat via the Vercel AI SDK and captures transient
+ * debug data (query, retrieved chunks, system prompt) for the DevPanel.
+ * Shows suggested questions on first load before any messages exist.
+ */
 export function Chat() {
   const [input, setInput] = useState("");
   const [debug, setDebug] = useState<DebugInfo | null>(null);
@@ -107,6 +119,7 @@ export function Chat() {
     bottomRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
+  /** Submits the current input value as a new user message. */
   function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     const text = input.trim();
@@ -115,6 +128,7 @@ export function Chat() {
     setInput("");
   }
 
+  /** Sends a suggested question directly without typing it in the input field. */
   function handleSuggestion(q: string) {
     if (isLoading) return;
     sendMessage({ text: q });

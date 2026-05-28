@@ -6,6 +6,10 @@ import { About } from "@/components/About";
 
 type Tab = "assistant" | "about";
 
+/**
+ * Root page. Renders a tabbed layout switching between the chat assistant
+ * and the about/portfolio page.
+ */
 export default function Page() {
   const [tab, setTab] = useState<Tab>("assistant");
 

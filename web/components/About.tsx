@@ -1,3 +1,7 @@
+/**
+ * Static portfolio page describing the project: stack, data pipeline details,
+ * design decisions made during development, and knowledge base stats.
+ */
 export function About() {
   return (
     <div className="flex-1 overflow-y-auto px-4 py-8">

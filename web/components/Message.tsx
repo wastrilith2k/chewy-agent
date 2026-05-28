@@ -6,6 +6,13 @@ interface Props {
   message: UIMessage;
 }
 
+/**
+ * Renders a single chat message bubble.
+ * User messages appear right-aligned in orange; assistant messages appear
+ * left-aligned in white with source citation chips below the text.
+ * Returns null for assistant messages with no text yet to avoid an empty
+ * bubble flash at stream startup.
+ */
 export function Message({ message }: Props) {
   const isUser = message.role === "user";
 

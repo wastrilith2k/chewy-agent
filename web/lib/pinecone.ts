@@ -21,6 +21,14 @@ export interface KBResult {
   allMatches: Array<{ id: string; score: number; title: string; url: string; shown: boolean }>;
 }
 
+/**
+ * Queries the Pinecone knowledge base for chunks relevant to the given query.
+ * Embeds the query via the Pinecone Inference API, retrieves the top FETCH_K
+ * chunks by cosine similarity, then deduplicates by URL and returns:
+ *  - context: all retrieved chunk texts joined for the LLM system prompt
+ *  - sources: top MAX_SOURCES unique-URL citations to show the user
+ *  - allMatches: every retrieved chunk annotated with a `shown` flag for the dev panel
+ */
 export async function queryKnowledgeBase(query: string): Promise<KBResult> {
   const result = await pc.inference.embed({
     model: EMBED_MODEL,
